@@ -1,0 +1,16 @@
+Input :
+
+Input will contain four integers - one in each line.
+
+Output :
+
+Print the greatest of the four integers. 
+
+Sample input :
+3
+4
+6
+5
+
+Sample output :
+6
