@@ -1,0 +1,19 @@
+ou'll be given an array of N integers and you have to print the integers in the reverse order.
+
+Input :
+
+The first line of the input contains N, where N is the number of integers. 
+The next line contains the integers separated by a space in N.
+
+Output :
+
+Print the N integers of the array in the reverse order in a single line separated by a space.
+
+Sample input :
+
+4
+1 4 3 2
+
+Sample output :
+
+2 3 4 1
