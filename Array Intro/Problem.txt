@@ -1,4 +1,4 @@
-ou'll be given an array of N integers and you have to print the integers in the reverse order.
+You'll be given an array of N integers and you have to print the integers in the reverse order.
 
 Input :
 
